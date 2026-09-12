@@ -27,6 +27,9 @@ jobs:
           - github
           - github_dark
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
       - name: Generate ${{ matrix.theme }} profile cards
         uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549 # v0.12.0
         env:
@@ -34,3 +37,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: ${{ matrix.theme }}
+          UTC_OFFSET: 8
