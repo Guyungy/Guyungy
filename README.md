@@ -6,19 +6,15 @@
 
 <div align="center">
   <br>
-  <strong>把需求、流程与技术，变成真正进入工作流的系统。</strong>
-  <br><br>
-  <sub>关注 AI 交付、Agent 工作流、业务自动化与轻量产品工程。</sub>
-  <br><br>
-  <a href="#about">关于</a>
-  <span> · </span>
-  <a href="#what-i-build">正在构建</a>
-  <span> · </span>
-  <a href="#live-github-data">实时数据</a>
-  <span> · </span>
-  <a href="#stack">技术栈</a>
-  <span> · </span>
-  <a href="#working-principles">原则</a>
+  <a href="#about">ABOUT</a>
+  <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+  <a href="#what-i-build">WHAT I BUILD</a>
+  <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+  <a href="#live-github-data">LIVE DATA</a>
+  <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+  <a href="#stack">STACK</a>
+  <span>&nbsp;&nbsp;·&nbsp;&nbsp;</span>
+  <a href="#working-principles">PRINCIPLES</a>
 </div>
 
 <br>
